@@ -1,10 +1,6 @@
-# Bookmarklets Collection
+# Bookmarklets
 
-A collection of useful JavaScript bookmarklets to enhance your web browsing experience.
-
-## What are Bookmarklets?
-
-Bookmarklets are small JavaScript programs that can be stored as browser bookmarks. When clicked, they execute JavaScript code to enhance or modify the current webpage.
+My collection JavaScript bookmarklets. (Small JavaScript programs stored as browser bookmarks. When clicked, they execute JavaScript code to enhance or modify the current webpage.)
 
 ## Installation
 
